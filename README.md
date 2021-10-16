@@ -15,7 +15,7 @@ A simple web application that allows users to search for a city to get the curre
 
 ## Screenshots
 
-![screenshot](g)
+![screenshot]()
 
 ## Usage
 
