@@ -1,6 +1,8 @@
 # Weather Dashboard
 
-### URL link: []
+### URL link: [to website]
+
+### github link: [to repo]
 
 ## Description
 
@@ -15,7 +17,7 @@ A simple web application that allows users to search for a city to get the curre
 
 ## Screenshots
 
-![screenshot]()
+![screenshot](put photo of website)
 
 ## Usage
 
