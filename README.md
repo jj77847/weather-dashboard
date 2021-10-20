@@ -1,8 +1,8 @@
 # Weather Dashboard
 
-### URL link: [to website]
+### URL link: [https://jj77847.github.io/weather-dashboard/]
 
-### github link: [to repo]
+### github link: [https://github.com/jj77847/weather-dashboard/tree/dev]
 
 ## Description
 
