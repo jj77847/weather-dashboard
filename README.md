@@ -17,7 +17,7 @@ A simple web application that allows users to search for a city to get the curre
 
 ## Screenshots
 
-![screenshot](put photo of website)
+![screenshot](assets/images/weather-dashboard-screenshot.png)
 
 ## Usage
 
