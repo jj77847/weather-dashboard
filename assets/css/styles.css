@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.forecast-card {
+  width: 18rem;
+  background-color: #0c26ef;
+  color: #fff;
+}
