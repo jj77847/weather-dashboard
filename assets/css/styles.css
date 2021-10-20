@@ -4,6 +4,7 @@
 
 .forecast-card {
   width: 18rem;
-  background-color: #0c26ef;
+  background-color: #02040f;
   color: #fff;
+  font-weight: bold;
 }
