@@ -17,14 +17,14 @@
   </head>
 
   <body>
-    <div class="min-vh-100 bg-light">
+    <div class="min-vh-10 text-center bg-dark border text-white">
       <!--header -->
       <header class="text-center p-3 bg-dark text-white">
         <h1>Weather Dashboard</h1>
       </header>
 
       <main>
-        <div class="row gx-0 p-3">
+        <div class="row gx-0 p-3 bg-dark text-white">
           <!-- Column for search history -->
           <div
             class="
@@ -39,10 +39,21 @@
             "
           >
             <h2>Search for a City:</h2>
-            <form class="form" id="search-form">
+            <form
+              class="form text-center bg-white border text-white"
+              id="search-form"
+            >
               <input
                 id="city-input"
-                class="form-control text-center col-12 p-2 my-2"
+                class="
+                  form-control
+                  text-center
+                  bg-dark
+                  text-white
+                  col-12
+                  p-2
+                  my-2
+                "
                 type="search"
                 placeholder="Search"
                 aria-label="Search"
@@ -59,7 +70,7 @@
             <hr />
 
             <!--city searched lists here-->
-            <ul class="col-12 list-group" id="city-list">
+            <ul class="col-12 bg-dark text-white list-group" id="city-list">
               <li class="list-group-item">New York</li>
               <li class="list-group-item">London</li>
               <li class="list-group-item">Paris</li>
@@ -82,7 +93,10 @@
               mb-3
             "
           >
-            <div class="d-flex flex-column" id="weather-cards-container"></div>
+            <div
+              class="d-flex flex-column bg-dark text-dark"
+              id="weather-cards-container"
+            ></div>
           </div>
         </div>
       </main>
